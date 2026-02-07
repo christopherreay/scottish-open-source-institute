@@ -9,9 +9,15 @@
     "docs/SCOPE.md",
     "docs/DESIGN.md",
     "docs/THREADS.md",
+    "threads/THR-0001-institute-mandate.md",
+    "threads/THR-0002-european-digital-sovereignty.md",
+    "threads/THR-0003-hyperscaler-landscape.md",
+    "decisions/DEC-0001-institute-mandate-and-scope-boundary.md",
     "MEMORY.md"
   ],
   "optional": [
-    "research/LOG.md"
+    "research/LOG.md",
+    "research/2026-02-03-european-digital-sovereignty-policy-inventory.md",
+    "research/2026-02-03-european-hyperscaler-gap-notes.md"
   ]
 }
