@@ -9,7 +9,6 @@ The initial mandate under discussion: help Scotland achieve practical sovereignt
 ## Navigation
 - `docs/GOALS.md` — mission + non-negotiables
 - `docs/SCOPE.md` — in/out + phases
-- `docs/DESIGN.md` — living notes / architecture options
 - `research/LOG.md` — append-only research log
 - `decisions/` — decision nodes (stable ids)
 - `ops/INDEX.md` — repo context entrypoint

@@ -7,7 +7,6 @@
 - `ops/THREADS-PROTOCOL.md`
 - `docs/GOALS.md` — mission + non-negotiables
 - `docs/SCOPE.md` — in/out + phases
-- `docs/DESIGN.md` — living notes
 - `docs/THREADS.md` — thread index
 
 ## Research + decisions

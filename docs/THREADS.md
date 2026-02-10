@@ -12,8 +12,8 @@ Related protocol:
 - THR-0003: Hyperscaler landscape — why no EU hyperscalers, provider gap analysis. (see: `threads/THR-0003-hyperscaler-landscape.md`, `research/2026-02-03-european-hyperscaler-gap-notes.md`)
 
 ## Proposal development threads
-- THR-0004: Critical information flows taxonomy — dependency mapping for Scottish government + civil continuity. (see: `threads/THR-0004-critical-information-flows.md`)
-- THR-0005: Cost model development — capex/opex/headcount scenarios for the proposal. (see: `threads/THR-0005-cost-model-development.md`)
+- THR-0004: Critical information flows taxonomy — **173 risk surfaces across 13 dimensions**; foundational dependency mapping with small nation comparators (Estonia, Denmark, Norway, Wales). (see: `threads/THR-0004-critical-information-flows.md`, `research/2026-02-10-information-flow-sovereignty-taxonomy.md`)
+- THR-0005: Cost model development — **£80-120M over 5 years (Moderate scenario)**; £45-65M (Conservative), £150-200M (Ambitious); break-even Year 2-3. (see: `threads/THR-0005-cost-model-development.md`, `research/2026-02-10-cost-model-framework.md`)
 - THR-0006: Governance and operating model — OSPO vs. delivery agency vs. collaborative models. (see: `threads/THR-0006-governance-operating-model.md`)
 - THR-0007: John Bargman meeting preparation — immediate milestone meeting. (see: `threads/THR-0007-john-bargman-meeting.md`)
 
